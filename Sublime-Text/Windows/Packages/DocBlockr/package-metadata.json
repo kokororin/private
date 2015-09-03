@@ -1,0 +1,1 @@
+{"description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++", "url": "https://github.com/spadgos/sublime-jsdocs", "platforms": ["*"], "version": "2.14.1", "sublime_text": "*", "dependencies": []}

@@ -1,0 +1,548 @@
+{
+	"folder_history":
+	[
+		"/home/kotori/Downloads/lophita",
+		"/home/kotori/Documents/htdocs/projects",
+		"/home/kotori/Documents/htdocs/projects/slim",
+		"/home/kotori/Documents/htdocs/projects/learnlaravel",
+		"/home/kotori/Documents/htdocs/projects/posutoba"
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sub",
+						"substr_between"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 172.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kotori/Documents/htdocs/projects/one/cron.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/System/Library/Think/Template/Driver/Compress.class.php",
+				"/home/kotori/Documents/htdocs/projects/one/db.php",
+				"/home/kotori/Documents/htdocs/projects/one/index.php",
+				"/home/kotori/Downloads/oyasumim_blog",
+				"/home/kotori/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/kotori/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/kotori/Downloads/lnmp1.1/upgrade_mysql.sh",
+				"/home/kotori/Downloads/localhost.sql",
+				"/home/kotori/Downloads/home/index.html",
+				"/home/kotori/Downloads/home/wwwroot/blog/wp-config.php",
+				"/home/kotori/Downloads/ThinkPHP/Lib/Template/ThinkTemplate.class.php",
+				"/home/kotori/Downloads/ThinkPHP/Lib/Core/Dispatcher.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba (3)/App/Tieba/Conf/config.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba (2)/App/Tieba/View/Admin/adminTools.php",
+				"/home/kotori/Downloads/sdk-master/Home/Controller/LoginController.class.php",
+				"/home/kotori/lnmp.sh"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"EOF"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ima",
+						"image_url"
+					],
+					[
+						"im",
+						"image_url"
+					],
+					[
+						"cli",
+						"clientH"
+					],
+					[
+						"cl",
+						"clientH"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"sub",
+						"substr_between"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 52.0,
+				"selected_items":
+				[
+					[
+						"tidy",
+						"Tidy PHP"
+					],
+					[
+						"ti",
+						"Tidy PHP"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"for",
+						"Format: Php"
+					],
+					[
+						"For",
+						"Format: Php"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kotori/Untitled html.html",
+				"/home/kotori/Downloads/google/login.php",
+				"/tmp/sublime-sftp-browse-1428222238/untitled/home/wwwroot/api/index.php",
+				"/home/kotori/Downloads/config.yaml",
+				"/home/kotori/Documents/htdocs/projects/posutoba/Public/common/js/common.js",
+				"/home/kotori/Documents/htdocs/projects/ping.php",
+				"/tmp/sublime-sftp-browse-1428221589/untitled/home/wwwroot/api/bing.php",
+				"/tmp/xa-CS7QIc/index.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/Public/common/css/admin_census.css",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/PostController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/UserController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/IndexController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/HomeController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/ForumController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/BaseController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Controller/AdminController.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Common/Conf/config.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Library/Pager.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Common/function.php",
+				"/home/kotori/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/kotori/Documents/htdocs/projects/posutoba/README.md",
+				"/home/kotori/Downloads/lophita-old/functions/comments.php",
+				"/home/kotori/Downloads/lophita/functions/comments.php",
+				"/home/kotori/install.sh",
+				"/home/kotori/Downloads/lophita-old/custom-functions.php",
+				"/home/kotori/Downloads/lophita-old/functions/widgets/widget-one.php",
+				"/home/kotori/Downloads/lophita/functions/widgets/widget-one.php",
+				"/home/kotori/Downloads/lophita/header.php",
+				"/home/kotori/Downloads/lophita/functions/lophita.php",
+				"/home/kotori/Downloads/lophita-old/functions/lophita.php",
+				"/home/kotori/Downloads/lophita-old/header.php",
+				"/home/kotori/test.html",
+				"/tmp/sublime-sftp-browse-1428129264/untitled/home/wwwroot/blog/wp-content/themes/lophita/header.php",
+				"/home/kotori/Downloads/ll/404.php",
+				"/home/kotori/Downloads/ll/category.php",
+				"/home/kotori/Downloads/ll/comments.php",
+				"/home/kotori/Downloads/ll/custom-functions.php",
+				"/home/kotori/Downloads/ll/custom-style.css",
+				"/home/kotori/Downloads/ll/footer.php",
+				"/home/kotori/Downloads/ll/functions.php",
+				"/home/kotori/Downloads/ll/header.php",
+				"/home/kotori/Downloads/ll/index.php",
+				"/home/kotori/Downloads/ll/page.php",
+				"/home/kotori/Downloads/ll/page-archives.php",
+				"/home/kotori/Downloads/ll/page-favorite.php",
+				"/home/kotori/Downloads/ll/page-guestbook.php",
+				"/home/kotori/Downloads/ll/page-link.php",
+				"/home/kotori/Downloads/ll/page-sitemap.php",
+				"/home/kotori/Downloads/ll/page-tags.php",
+				"/home/kotori/Downloads/ll/page-weibo.php",
+				"/home/kotori/Downloads/ll/search.php",
+				"/home/kotori/Downloads/ll/sidebar.php",
+				"/home/kotori/Downloads/ll/single.php",
+				"/home/kotori/Downloads/ll/style.css",
+				"/home/kotori/Downloads/ll/tag.php",
+				"/home/kotori/Downloads/ll/timthumb.php",
+				"/home/kotori/.config/sublime-text-2/Packages/User/sftp_servers/untitled",
+				"/home/kotori/Documents/htdocs/projects/posutoba/App/Tieba/Conf/config.php",
+				"/home/kotori/.conky/Conky Seamod/conky_seamod",
+				"/home/kotori/.conky/zenzire/zenzirerc",
+				"/home/kotori/Downloads/conkyrc-master/conkyrc",
+				"/home/kotori/.conky/Baidu/baidurc",
+				"/home/kotori/.conky/Chemist/.conkyrc",
+				"/home/kotori/.conky/Conky MIUI/source.txt",
+				"/home/kotori/.conky/Chemist/tint2rc",
+				"/home/kotori/Documents/htdocs/projects/one/getjson.php",
+				"/home/kotori/Documents/htdocs/projects/one/cron.php",
+				"/home/kotori/Documents/htdocs/projects/one/google.php",
+				"/home/kotori/Documents/htdocs/projects/one/data.txt",
+				"/home/kotori/Documents/htdocs/projects/one/classes/simple_html_dom.php",
+				"/tmp/sublime-sftp-browse-1427953868/untitled/home/wwwroot/bt/index.php",
+				"/home/kotori/Downloads/[Gimhoy.com] Wordpress_On_SAE_4.1/wp-config.php",
+				"/home/kotori/Downloads/ajvod/config.php",
+				"/home/kotori/Downloads/simplehtmldom_1_5/example/example_basic_selector.php",
+				"/home/kotori/Downloads/[Gimhoy.com] Wordpress_On_SAE_4.1/license.txt",
+				"/home/kotori/Downloads/simplehtmldom_1_5/example/example_advanced_selector.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/controllers/IndexController.class.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/views/index.php",
+				"/home/kotori/Downloads/simplehtmldom_1_5/simple_html_dom.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/controllers/HomeController.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/config/database.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/routes.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/filters.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/views/hello.php",
+				"/home/kotori/Documents/htdocs/projects/learn4/app/controllers/HomeController.php",
+				"/home/kotori/Documents/htdocs/projects/learn4/app/controllers/BaseController.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/models/User.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/app/database/migrations/2015_04_01_023951_create_articles_table.php",
+				"/home/kotori/Documents/htdocs/projects/learnlaravel/public/index.php",
+				"/home/kotori/.config/sublime-text-2/Packages/PhpTidy/php_tidy.py",
+				"/run/user/1000/gvfs/sftp:host=157.7.72.71/root/lnmp/backup.sh",
+				"/home/kotori/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/kotori/Documents/htdocs/projects/posutoba/System/Library/Behavior/AgentCheckBehavior.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/System/Library/Behavior/CheckLangBehavior.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba/System/Common/functions.php",
+				"/home/kotori/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/kotori/Documents/htdocs/projects/posutoba/System/Library/Think/Template/Driver/Compress.class.php",
+				"/home/kotori/Documents/htdocs/projects/one/db.php",
+				"/home/kotori/Documents/htdocs/projects/one/index.php",
+				"/home/kotori/Downloads/oyasumim_blog",
+				"/home/kotori/Downloads/lnmp1.1/upgrade_mysql.sh",
+				"/home/kotori/Downloads/localhost.sql",
+				"/home/kotori/Downloads/home/index.html",
+				"/home/kotori/Downloads/home/wwwroot/blog/wp-config.php",
+				"/home/kotori/Downloads/ThinkPHP/Lib/Template/ThinkTemplate.class.php",
+				"/home/kotori/Downloads/ThinkPHP/Lib/Core/Dispatcher.class.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba (3)/App/Tieba/Conf/config.php",
+				"/home/kotori/Documents/htdocs/projects/posutoba (2)/App/Tieba/View/Admin/adminTools.php",
+				"/home/kotori/Downloads/sdk-master/Home/Controller/LoginController.class.php",
+				"/home/kotori/lnmp.sh"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"description",
+					"网站描述",
+					"描述",
+					"<meta name=\"description\"",
+					"descrip",
+					"image",
+					"icons",
+					"ethernet",
+					"php  /www/web/gaojinbo.com/crond1.php",
+					"hitokoto.us/view",
+					"<cite class=\"",
+					"<cite",
+					"cite",
+					"_Rm",
+					"hitokoto",
+					"col",
+					"EOF"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"php /home/wwwroot/one/cron.php"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/kotori/Documents/htdocs/projects/posutoba"
+				},
+				{
+					"path": "/home/kotori/Documents/htdocs/projects/slim"
+				},
+				{
+					"path": "/home/kotori/Documents/htdocs/projects"
+				},
+				{
+					"path": "/home/kotori/Downloads/lophita"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.php_beautifier_errors":
+			{
+				"height": 124.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

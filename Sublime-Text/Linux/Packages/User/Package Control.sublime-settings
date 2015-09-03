@@ -1,0 +1,13 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Package Control",
+		"SFTP"
+	]
+}

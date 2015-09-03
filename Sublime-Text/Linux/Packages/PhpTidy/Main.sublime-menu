@@ -1,0 +1,10 @@
+[{
+  "caption": "Tools",
+  "mnemonic": "t",
+  "id": "tools",
+  "children": [{
+    "id": "ciTdy",
+    "caption": "CI-Tidy",
+    "command": "php_tidy"
+    }]
+}]
