@@ -1,0 +1,6 @@
+/*标签样式css 绿 黄 蓝 红*/
+/*http://tieba.baidu.com/p/3389750208*/
+.tabbrowser-tab:nth-child(4n+1){background:#62B76E !important;}
+.tabbrowser-tab:nth-child(4n+2){background:#FEEA4C !important;}
+.tabbrowser-tab:nth-child(4n+3){background:#65CCE1 !important;}
+.tabbrowser-tab:nth-child(4n+4){background:#F1A4B8 !important;}
