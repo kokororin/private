@@ -1,0 +1,12 @@
+{
+	"enable_auto_align": true,
+	"format_on_save": false,
+	"indent_with_space": false,
+	"passes":
+	[
+		"AllmanStyleBraces"
+	],
+	"php55warning": true,
+	"php_bin": "/usr/local/bin/php",
+	"version": 4
+}
