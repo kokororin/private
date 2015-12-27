@@ -1,0 +1,4 @@
+*:not([class*="ico"]):not([id*="ico"]):not(i):not(ins):not(s)
+{
+font-family: "Hiragino","Hiragino Sans GB","icomoon","FontAwesome", "mui-global-iconfont","vip-lift","ilmenicons" !important;
+}
