@@ -52,6 +52,7 @@ cd /root/bin
 ./dropbox_uploader.sh upload $LOCAL_BAK_DIR/$DBBakName $DROPBOX_DIR/$DBBakName
 ./dropbox_uploader.sh upload $LOCAL_BAK_DIR/$NginxConfBakName $DROPBOX_DIR/$NginxConfBakName
 ./dropbox_uploader.sh upload $LOCAL_BAK_DIR/$WebBakName $DROPBOX_DIR/$WebBakName
+./dropbox_uploader.sh upload $LOCAL_BAK_DIR/$GitBakName $DROPBOX_DIR/$GitBakName
 
 #删除旧数据
 rm -rf $LOCAL_BAK_DIR/$OldDBBakName $LOCAL_BAK_DIR/$OldNginxConfBakName $LOCAL_BAK_DIR/$OldWebBakName
