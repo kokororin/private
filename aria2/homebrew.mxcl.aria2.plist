@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KeepAlive</key>
+	<true/>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>Label</key>
+	<string>homebrew.mxcl.aria2</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/bin/aria2c</string>
+		<string>--enable-rpc=true</string>
+                <string>--max-concurrent-downloads=5</string>
+                <string>--continue=true</string>
+                <string>--max-connection-per-server=5</string>
+                <string>--min-split-size=10M</string>
+		<string>--split=10</string>
+		<string>--max-overall-download-limit=0</string>
+		<string>--max-download-limit=0</string>
+		<string>--max-overall-upload-limit=0</string>
+		<string>--max-upload-limit=0</string>
+		<string>--file-allocation=prealloc</string>                
+		<string>--rpc-allow-origin-all=true</string>
+		<string>--rpc-listen-all=true</string>
+		<string>--rpc-listen-port=6800</string>
+	</array>
+	<key>WorkingDirectory</key>
+	<string>/Users/Kotori/Downloads</string>
+</dict>
+</plist>
