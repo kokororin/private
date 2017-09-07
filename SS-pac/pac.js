@@ -2207,8 +2207,7 @@ function FindProxyForURL(url, host) {
         'zhihu.com' : 1,
         'zhimg.com' : 1,
         'zhubajie.com' : 1,
-        'zongheng.com' : 1,
-		'kotori.love' : 1,
+        'zongheng.com' : 1
     };
 
     var dangerDomains = {
@@ -2302,7 +2301,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-    var proxy = '__PROXY__ DIRECT';
+    var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
